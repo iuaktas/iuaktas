@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @iuaktas
-- 👀 I’m interested in ... To tell you a bit about myself, I am an enthusiast of coding. Computer science and the world of technology excite me. I enjoy learning new programming languages and working on projects. Perhaps we can have an interesting project idea to work on together!
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I’m İlknur
 
-<!---
-iuaktas/iuaktas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I am a data analysis enthusiast focused on turning data into actionable insights.  
+I enjoy working with real-world datasets and solving business problems using Python and data analysis tools.
+
+## What I’m Doing
+- Building data analysis projects (Funnel Analysis, Customer Segmentation)
+- Learning how to extract insights from data
+- Improving my analytical thinking and problem-solving skills
+
+## Skills
+- Python (Pandas, Matplotlib)
+- Data Analysis
+- Exploratory Data Analysis (EDA)
+- Basic Business Insight Generation
+
+## Current Focus
+- Improving data storytelling
+- Building portfolio-level projects
+- Preparing for entry-level data analyst roles
+
+## Contact
+- GitHub: https://github.com/iuaktas
